@@ -1,7 +1,7 @@
 # FiT: Parameter Efficient Few-shot Transfer Learning for Personalized and Federated Image Classification
 
 This repository contains the code to reproduce the experiments carried out in:
-[FiT: Parameter Efficient Few-shot Transfer Learning for Personalized and Federated Image Classification](https://arxiv.org/pdf/???.pdf)
+[FiT: Parameter Efficient Few-shot Transfer Learning for Personalized and Federated Image Classification](https://arxiv.org/pdf/2206.08671.pdf)
 
 ## Dependencies
 This code requires the following:
@@ -71,7 +71,10 @@ To ask questions or report issues, please open an issue on the issues tracker.
 ## Citation
 If you use this code, please cite our [paper](https://arxiv.org/pdf/???.pdf).
 ```
-@inproceedings{
-shysheya2022fit,
+@inproceedings{shysheya2022fit,
+  title={FiT: Parameter Efficient Few-shot Transfer Learning for Personalized and Federated Image Classification},
+  author={Shysheya, Aliaksandra and Bronskill, John and Patacchiola, Massimiliano and Nowozin, Sebastian and Turner, Richard E.},
+  journal={arXiv preprint arXiv:2206.08671},
+  year={2022}
 }
 ```
